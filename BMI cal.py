@@ -1,5 +1,6 @@
 #!/usr/bin/env pyhon3
 #-*- coding:utf-8 -*-
+#author:Sun Duncan
 H=input('请输入你的身高（m）:')
 H=float(H)
 W=input('请输入你的体重(kg):')
