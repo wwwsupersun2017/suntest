@@ -16,3 +16,4 @@ elif Result>=28 and Result<32:
 	print('您的体型肥胖')
 else:
 	print('您的体型严重肥胖')
+print ('thank you')
